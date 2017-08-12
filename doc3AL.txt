@@ -6,3 +6,12 @@ If I publish this local repo to github, I can continue making changes to local r
 Then I can push to origin, which will push local changes to master stored on github server. 
 
 If i make changes in origin master, or if a collaborator makes changes, I will see a fetch button on desk top. 
+
+If you make conflicting changes in files with a collaborator, you will get some error messages that I have saved in doc2AL. 
+HEAD;   this marks where the changes started. 
+long string of numbers: this tells you exactly where the error occured. 
+
+Pull request: this makes a copy of someone else's code for yourself. 
+If you want to play around with the code and maybe merge back with original, FORK it.
+Once you have the fork, click clone. Clone will put repository on your local computer and your own github repository.
+If you just download a repo without forking, you can make local changes, but you can't push them back to the original. 
