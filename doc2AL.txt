@@ -1,7 +1,11 @@
 second test of AL github.
 
+<<<<<<< HEAD
 Above was committed to master. Here are some new additions. 
 
 
 I DO know what i'm doing. 
 
+=======
+Test edit of document on the origin repository. 
+>>>>>>> e8e8c3e68e935c1fa35a8959ad4aebd0a1c2aead
