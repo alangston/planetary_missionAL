@@ -1,0 +1,8 @@
+Here is another brand new file for github practice. 
+
+Mariela says make commits separately by topic. This is so you can easily move backwards in time if you need to. 
+
+If I publish this local repo to github, I can continue making changes to local repo. 
+Then I can push to origin, which will push local changes to master stored on github server. 
+
+If i make changes in origin master, or if a collaborator makes changes, I will see a fetch button on desk top. 

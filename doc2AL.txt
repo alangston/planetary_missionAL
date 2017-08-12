@@ -1,1 +1,7 @@
 second test of AL github.
+
+Above was committed to master. Here are some new additions. 
+
+
+I DO know what i'm doing. 
+
